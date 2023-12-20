@@ -1,9 +1,9 @@
 ### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=yellow)
-![R](https://img.shields.io/badge/R-3776AB?logo=R)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-3776AB?logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-white?logo=R&logoColor=3776AB)
+![SQL](https://img.shields.io/badge/SQL-4169E1?logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=black)
 
 ### Other tools
 
