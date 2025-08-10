@@ -26,7 +26,7 @@
 </a>
 
 <a href="https://github.com/dxzielinski">
-<img align="center" src="https://github-readme-stats-dxzielinskis-projects.vercel.app/api/top-langs?username=dxzielinski&hide=jupyter%20notebook,html,css,cmake,tex&layout=compact&theme=radical&exclude_repo=text-classification-assignment&langs_count=8&card_width=468"/>
+<img align="center" src="https://github-readme-stats-dxzielinskis-projects.vercel.app/api/top-langs?username=dxzielinski&hide=jupyter%20notebook,html,css,cmake,tex,typescript&layout=compact&theme=radical&exclude_repo=text-classification-assignment&langs_count=8&card_width=468"/>
 </a>
 
 </details>
